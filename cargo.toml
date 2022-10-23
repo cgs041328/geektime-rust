@@ -3,4 +3,5 @@
 members = [
   "httpie",
   "scrape_url",
+  "thumbor",
 ]
